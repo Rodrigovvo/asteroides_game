@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-15.0.1">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/rodrigovvo/Público/javafx-sdk-11.0.2/lib/src.zip"/>
+	<classpathentry exported="true" kind="lib" path="/home/rodrigovvo/Público/javafx-sdk-11.0.2/lib/javafx-swt.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/rodrigovvo/Público/javafx-sdk-11.0.2/lib/javafx.web.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/rodrigovvo/Público/javafx-sdk-11.0.2/lib/javafx.swing.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/rodrigovvo/Público/javafx-sdk-11.0.2/lib/javafx.media.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/rodrigovvo/Público/javafx-sdk-11.0.2/lib/javafx.graphics.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/rodrigovvo/Público/javafx-sdk-11.0.2/lib/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="/home/rodrigovvo/Público/javafx-sdk-11.0.2/lib/javafx.controls.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/rodrigovvo/Público/javafx-sdk-11.0.2/lib/javafx.base.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
